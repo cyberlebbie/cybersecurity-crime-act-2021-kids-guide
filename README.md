@@ -154,7 +154,6 @@ Let us build a safer digital Sierra Leone. 🇸🇱🔐**
 
 ## 👤 Initiative Lead
 
-**Mohamed Lebbie**
 **Head of Cybersecurity**  
 **ICT Department**  
 **Parliament of Sierra Leone**
